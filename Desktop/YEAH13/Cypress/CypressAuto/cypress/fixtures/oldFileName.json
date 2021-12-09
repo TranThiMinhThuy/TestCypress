@@ -1,0 +1,19 @@
+{
+  "username": "sysadm",
+  "password": "password",
+  "orgTests": 
+  [
+      {
+           "name" : "MN",
+           "communications": [
+              {
+                  "type": "Mobile",
+                  "number": "01414444684",
+                  "comments": "",
+                  "preferredContact": true,
+                  "optOutOfSMS": false
+              }
+          ]
+      }
+  ]
+}

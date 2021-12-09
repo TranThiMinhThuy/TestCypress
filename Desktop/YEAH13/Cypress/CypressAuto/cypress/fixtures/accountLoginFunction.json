@@ -1,0 +1,31 @@
+[ 
+  {
+    "_comment1":"Verify Login success with valid userID and valid password",
+    "id":1,
+    "username":"mngr360437",
+    "password": "zagEbUg",
+    "title": "Guru99 Bank Manager HomePage"
+  },
+  {
+    "_comment1":"Verify Login fail with invalid userID and valid password",
+    "id":2,
+    "username":"mngr360437ab",
+    "password": "zagEbUg"
+  },
+  {
+    "_comment1":"Verify Login fail with valid userID and invalid password",
+    "id":3,
+    "username":"mngr360437",
+    "password": "zagEbUg12"
+  },
+  {
+    "_comment1":"Verify Login fail with invalid userID and invalid password",
+    "id":4,
+    "username":"mngr360437 ",
+    "password": "zagEbUg145"
+  }
+]
+
+
+
+

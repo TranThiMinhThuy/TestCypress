@@ -1,0 +1,18 @@
+[
+  {
+    "value": "az",
+    "option": "Name (A to Z)"
+  },
+  {
+    "value": "za",
+    "option": "Name (Z to A)"
+  },
+  {
+    "value": "lohi",
+    "option": "Price (low to high)"
+  },
+  {
+    "value": "hilo",
+    "option": "Price (high to low)"
+  }
+]

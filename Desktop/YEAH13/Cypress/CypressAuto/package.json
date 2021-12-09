@@ -1,0 +1,32 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "nhu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.5",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-react": "^6.24.1",
+    "cypress": "^8.7.0"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.175",
+    "browser-sync": "^2.27.5",
+    "chai-sorted": "^0.2.0",
+    "cors": "^2.8.5",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "semver": "^7.3.5"
+  },
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
+  "description": ""
+}
